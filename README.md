@@ -2,7 +2,7 @@
 
 This program Displays temperature and humidity readings on a web server using the ESP32 and rings alarm sound when temperature reaches above threshold level.
 
-The goal of this experiment is to integrate the HTTP webserver with Sensor. As we know, most
+In this project I have integrate the HTTP webserver with Sensor. As we know, most
 IoT Nodes are equipped with sensors and the IoT systems should provide these sensor data to
 users.Here I have used DHT11 Temperature and Humidity sensor connected to an
 IoT Node/ ESP32 development board. The IoT Node is configured as a Webserver and the
